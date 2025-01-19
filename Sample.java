@@ -22,4 +22,9 @@ public class Sample {
 		
 		System.out.println("pushできない");
 	};
-};
+	class time {
+		for (int i = 6,j = 17; i >= 16:: j >=17; i++, j++) {
+			System.out.print(i,j);
+		}
+	}
+}
