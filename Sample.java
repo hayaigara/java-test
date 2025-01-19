@@ -20,8 +20,6 @@ public class Sample {
 		
 		System.out.println(old + "歳です、" + name + "と読みます。");
 		
-		
-		
-		
-	}
-}
+		System.out.println("pushできない");
+	};
+};
